@@ -4,8 +4,14 @@
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License-MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lumina-analytix.vercel.app/)
 
 **Analytix** is a high-end, production-ready analytics dashboard designed with **Neumorphism (Soft UI)** principles. It provides a sleek, modern interface for data visualization, project management, and real-time activity tracking, built on the cutting edge of the React ecosystem.
+
+---
+
+## 🔗 Live Demo
+**Check out the live dashboard here: [https://lumina-analytix.vercel.app/](https://lumina-analytix.vercel.app/)**
 
 ---
 
