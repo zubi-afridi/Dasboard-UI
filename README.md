@@ -23,30 +23,32 @@
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Mockup](https://raw.githubusercontent.com/username/repository/main/public/images/dashboard-preview.png)
-*Modern Data Overview with User Growth and Activity Tracking.*
+_Modern Data Overview with User Growth and Activity Tracking._
 
 ---
 
 ## 🛠️ Built With
 
-| Tech | Description |
-| :--- | :--- |
-| **Next.js 15** | Server Components & App Router |
-| **React 19** | Latest hooks and concurrent rendering |
-| **Tailwind CSS 4** | Ultra-efficient styling engine |
-| **Remix Icons** | Premium vector iconography |
-| **Nunito Sans** | Elegant, readable typography |
+| Tech               | Description                           |
+| :----------------- | :------------------------------------ |
+| **Next.js 15**     | Server Components & App Router        |
+| **React 19**       | Latest hooks and concurrent rendering |
+| **Tailwind CSS 4** | Ultra-efficient styling engine        |
+| **Remix Icons**    | Premium vector iconography            |
+| **Nunito Sans**    | Elegant, readable typography          |
 
 ---
 
 ## 🚀 Installation & Setup
 
 1. **Clone the project**
+
    ```bash
-   git clone https://github.com/your-username/analytix-dashboard.git
+   git clone https://github.com/zubi-afridi/Dasboard-UI.git
    ```
 
 2. **Install Dependencies**
+
    ```bash
    npm install
    ```
@@ -73,4 +75,5 @@ src/
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
-Created with passion by **[Your Name]** 🚀
+
+Created with passion by **[Zubair Khan]** 🚀
